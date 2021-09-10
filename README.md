@@ -2,7 +2,7 @@
 <h3 align="center">backend developer</h3>
 
 
-<div align="center">
+<div align = "center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsouza-rod&show_icons=true&theme=dark&locale=en" alt="jpsouza-rod" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpsouza-rod&show_icons=true&theme=dark&locale=en&layout=compact" alt="jpsouza-rod" />
 </div>
