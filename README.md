@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm João Paulo S. Rodrigues</h1>
 <h3 align="center">backend developer</h3>
 
-<div align="center">
+
+  <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jpsouza-rod&show_icons=true&theme=dark&locale=en" alt="jpsouza-rod" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=jpsouza-rod&show_icons=true&theme=dark&locale=en&layout=compact" alt="jpsouza-rod" />
-</div>
+  </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joao paulo rodrigues" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joao paulo rodrigues" height="30" width="40" /></a>
